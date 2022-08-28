@@ -1,2 +1,2 @@
 # Test
-Hello world !
+Hello GitHub !
